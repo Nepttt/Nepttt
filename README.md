@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=몰?루&fontSize=90" />
 
 ### 나는 코딩노예다  나는 코딩노예다  나는 코딩노예다  나는 코딩노예다  나는 코딩노예다
+### 쓸 수 있는 것
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <!--
 **Nepttt/Nepttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
